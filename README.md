@@ -3,13 +3,10 @@
 Task Squirrel is an app that helps parents manage and assign tasks to their children, requiring them to attach photos as proof of task completion. This project implements several features related to photo selection and displaying the location of the photo on a map.
 
 <div>
-    <a href="https://www.loom.com/share/0933edc18f5744d2bf2370c72f2316dd">
-    </a>
-    <a href="https://www.loom.com/share/0933edc18f5744d2bf2370c72f2316dd">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0933edc18f5744d2bf2370c72f2316dd-6b783e16f4a09ef1-full-play.gif">
+    <a href="https://www.loom.com/share/1fe69be838c644529651e51a331c4821">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1fe69be838c644529651e51a331c4821-dd2ecc2a7c873b16-full-play.gif">
     </a>
   </div>
- 
 
 ## Features Implemented
 
