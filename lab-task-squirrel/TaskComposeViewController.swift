@@ -1,8 +1,8 @@
 //
 //  TaskComposeViewController.swift
-//  lab-task-squirrel
+//  ScavengerHuntApp
 //
-//  Created by Charlie Hieger on 11/15/22.
+//  Created by Rohan D S on 22/08/24.
 //
 
 import UIKit
